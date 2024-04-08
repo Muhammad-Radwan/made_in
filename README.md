@@ -4,6 +4,6 @@
 - التعامل مع packge قراء الباركود
 - التعامل مع List والبحث داخلها
 ـ اقتصاص احدف معينة من نص
-> [!NOTE]
+> [!ملاحظة مهمة]
 > Useful information that users should know, even when skimming content.
 
