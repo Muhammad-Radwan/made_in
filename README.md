@@ -5,5 +5,5 @@
 - التعامل مع List والبحث داخلها
 ـ اقتصاص احدف معينة من نص
 > [!Note]
-> Useful information that users should know, even when skimming content.
+> يجب كتابة الكود الخاص بسامحية الوصول للكاميرا في مشروع ios في الملف info.plist داخل المجلد ios/Runner/info.plist
 
